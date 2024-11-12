@@ -7,7 +7,7 @@
           <article class="w-full overflow-hidden lg:flex lg:items-center">
     <!-- Imagen a la izquierda -->
     <img 
-        src="../assets/img/mainImgLivac.jpg" 
+        src="../assets/img/mainImgLivad.jpg" 
         class="lg:w-2/3 animate-fade-up lg:h-screen" 
         alt="">
 
