@@ -2,6 +2,8 @@
     <div class="">
         <MainLayout>
             <template #main>
+            <h1 class="text-3xl font-extrabold text-center text-white bg-rose-600 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAC</h1>
+
                 <section class="flex flex-wrap justify-around gap-5 p-3 bg-slate-200 selection:bg-rose-700 selection:text-white">
                     <BenefictCard 
                     img-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsKEn8_udbkIRpNgivz2H_GPcoB_kpLYPcw&s"

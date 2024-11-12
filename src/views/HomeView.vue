@@ -127,7 +127,7 @@
                 class="relative flex items-center justify-center w-1/2 p-4 border-2 rounded-lg shadow-md border-slate-400 bg-slate-100">
                 <span
                   class="absolute px-2 py-1 text-sm font-semibold text-white rounded -top-4 left-4 bg-slate-500">Anuncio</span>
-                <a href="https://medicinaparaansiedad.com/Inicio.html" class="relative w-full h-full" target="_blank"
+                <a href="https://shykandev.github.io/medicinaparadiabetes/" class="relative w-full h-full" target="_blank"
                   rel="noopener noreferrer">
                   <div
                     class="absolute flex flex-col items-center w-full h-full transition-opacity duration-300 ease-out bg-black opacity-0 hover:opacity-70 justify-evenly">
@@ -146,22 +146,19 @@
                 class="relative flex items-center justify-center w-1/2 p-4 border-2 rounded-lg shadow-md border-slate-400 bg-slate-100">
                 <span
                   class="absolute px-2 py-1 text-sm font-semibold text-white rounded -top-4 left-4 bg-slate-500">Anuncio</span>
-                <a href="https://chyawanprash.com.mx/index.html" class="relative w-full h-full" target="_blank"
+                <a href="https://www.prasadam.mx/typography.html" class="relative w-full h-full" target="_blank"
                   rel="noopener noreferrer">
                   <div
                     class="absolute flex flex-col items-center w-full h-full transition-opacity duration-300 ease-out bg-black opacity-0 hover:opacity-70 justify-evenly">
-                    <p class="text-sm font-bold text-center text-white font-poppins md:text-3xl">Usala con tu alimentos
-                      favoritos</p>
-                    <p class="text-sm font-bold text-center text-white font-poppins md:text-3xl">Multivitaminico</p>
-                    <p class="hidden text-sm font-bold text-center text-white font-poppins md:text-3xl md:block">100%
-                      natural</p>
+                    <p class="text-sm font-bold text-center text-white font-poppins md:text-3xl">Jabón de Neem</p>
+                    <p class="text-sm font-bold text-center text-white font-poppins md:text-3xl">100% natural</p>
+                    <p class="hidden text-sm font-bold text-center text-white font-poppins md:text-3xl md:block">Sin químicos</p>
                   </div>
-                  <img class="w-full h-full bg-contain rounded-md" src="../assets/img/chyawanprash.png" alt="">
-                  <p class="absolute top-0 text-xs font-bold text-center text-cyan-950 font-poppins md:text-3xl">Mermelada
-                    oscura</p>
+                  <img class="w-full h-full bg-contain rounded-md" src="https://i.ibb.co/QrxbhH9/neem2-1.png" alt="">
+                  <p class="absolute top-0 text-xs font-bold text-center text-cyan-950 font-poppins md:text-3xl">Jabón Natural</p>
                   <p
                     class="absolute px-3 text-xs font-bold text-center text-cyan-950 md:px-0 bottom-3 font-poppins md:text-3xl">
-                    Rejuvenecedor</p>
+                    Hidratante</p>
                 </a>
               </div>
             </section>

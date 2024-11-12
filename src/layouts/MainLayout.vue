@@ -9,7 +9,7 @@
                     <RouterLink :class="{'underline animate-rotate-x': route.name === 'about'}" :to="{ name: 'about' }">Nosotros</RouterLink>
                     <a href="https://www.prasadam.mx/" target="_blank">Prasadam</a>
                 </div>
-                <img class="absolute top-0 w-9 right-3 lg:w-14" src="../assets/img/logo.png" alt="">
+                <img class="absolute bottom-0 w-9 right-3 lg:w-14 md:top-0" src="../assets/img/logo.png" alt="">
                 <div>
                     <div class="hidden gap-2 mt-4 lg:flex">
                         <!-- location vicon -->

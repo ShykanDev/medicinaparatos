@@ -2,8 +2,8 @@
     <div class="">
       <MainLayout>
         <template #main>  
+            <h1 class="text-3xl font-extrabold text-center text-white bg-rose-600 font-poppins animate-fade">Conoce los beneficios que te ofrece LIVAC</h1>
           <section class="flex flex-wrap justify-around gap-5 p-2">
-
         <RealBenefictCard :img-src="'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs818c90AV4cjN59SP2q0geWfH_QYGRzWVA&s'" :title="benefit1.title" :description="benefit1.fullResume" :smallIntro="benefit1.smallResume" :tags="benefit1.tags" />
         <RealBenefictCard :img-src="'https://images.pexels.com/photos/1153370/pexels-photo-1153370.jpeg?auto=compress&cs=tinysrgb&w=500'" :title="benefit2.title" :description="benefit2.fullResume" :smallIntro="benefit2.smallResume" :tags="benefit2.tags" />
         <RealBenefictCard :img-src="'https://images.pexels.com/photos/321598/pexels-photo-321598.jpeg?auto=compress&cs=tinysrgb&w=400'" :title="benefit3.title" :description="benefit3.fullResume" :smallIntro="benefit3.smallResume" :tags="benefit3.tags" />
