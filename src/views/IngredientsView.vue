@@ -2,7 +2,7 @@
     <div class="">
         <MainLayout>
             <template #main>
-            <h1 class="text-3xl font-extrabold text-center text-white md:py-7 bg-rose-600 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAC</h1>
+            <h1 class="text-3xl font-extrabold text-center text-white md:py-7 bg-rose-600 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAD</h1>
                 <section class="flex flex-wrap justify-around gap-5 p-3 bg-slate-200 selection:bg-rose-700 selection:text-white">
                     <BenefictCard 
                     img-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsKEn8_udbkIRpNgivz2H_GPcoB_kpLYPcw&s"
@@ -83,8 +83,8 @@
                              <h2 class="mb-3 text-3xl font-medium text-center text-rose-800 font-poppins">En resúmen</h2>
                              <p>
                                 <strong class="text-white bg-rose-800">
-                                    LIVAC</strong>
-                                es un suplemento ayurvédico 100% natural diseñado para apoyar y promover la salud del hígado. Su fórmula única combina la sabiduría de la medicina tradicional con ingredientes modernos y efectivos, como probióticos y extractos herbales cuidadosamente seleccionados. LIVAC actúa como un aliado confiable en el bienestar hepático, ayudando a desintoxicar el hígado, reducir el estrés oxidativo y mejorar la digestión. Ideal para quienes buscan una opción natural para cuidar uno de los órganos más importantes del cuerpo.</p>
+                                    LIVAD</strong>
+                                es un suplemento ayurvédico 100% natural diseñado para apoyar y promover la salud del hígado. Su fórmula única combina la sabiduría de la medicina tradicional con ingredientes modernos y efectivos, como probióticos y extractos herbales cuidadosamente seleccionados. LIVAD actúa como un aliado confiable en el bienestar hepático, ayudando a desintoxicar el hígado, reducir el estrés oxidativo y mejorar la digestión. Ideal para quienes buscan una opción natural para cuidar uno de los órganos más importantes del cuerpo.</p>
                              <img class="mx-auto mt-3 rounded-lg pointer-events-none select-none" src="https://images.pexels.com/photos/531062/pexels-photo-531062.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
                             </article>
                      </div>

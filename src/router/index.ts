@@ -31,6 +31,9 @@ const router = createRouter({
       component: () => import('../views/faqsView.vue'),
     }
   ],
+    scrollBehavior(to, from, savedPosition) {
+      return { top: 0 }
+    },
 })
 
 export default router
