@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <header class="relative flex items-center justify-center w-full text-xl md:flex-col bg-rose-600 min-h-20">
+        <header class="fixed left-0 right-0 z-50 flex items-center justify-center w-full text-xl w-fullle md:flex-col bg-rose-600 min-h-20">
                 <div class="flex flex-wrap items-center justify-center gap-3 font-medium text-white font-concert-one lg:text-3xl">
                     <RouterLink :class="{'underline animate-rotate-x': route.name === 'home'}" :to="{ name: 'home' }">Inicio</RouterLink>
                     <RouterLink :class="{'underline animate-rotate-x': route.name === 'beneficts'}" :to="{ name: 'beneficts' }">Beneficios</RouterLink>
@@ -35,7 +35,7 @@
                     </div>
                 </div>
         </header>
-        <main>
+        <main class="pt-20">
             <slot name="main"></slot>
         </main>
         <footer class="relative flex flex-col justify-center w-full p-1 bg-opacity-85 bg-rose-600 min-h-16 font-poppins">
