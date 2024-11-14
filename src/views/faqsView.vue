@@ -17,6 +17,7 @@
   </div>
 
   <div class="mb-4 faq-item">
+    <!--  -->
     <h3 class="text-xl font-semibold text-rose-800 ">¿LIVAD tiene efectos secundarios?</h3>
     <p class="">LIVAD está formulado con ingredientes naturales y generalmente es seguro para la mayoría de las personas. Sin embargo, si experimentas algún efecto secundario, como malestar estomacal o reacciones alérgicas, suspende su uso y consulta a un médico.</p>
   </div>
