@@ -7,22 +7,26 @@
           <article class="w-full overflow-hidden lg:flex lg:items-center">
     <!-- Imagen a la izquierda -->
     <img 
-        src="../assets/img/livi.jpg" 
+        src="../assets/img/mainHome.jpg" 
         class="lg:w-2/3 animate-fade-up lg:h-screen" 
         alt="">
 
     <!-- Contenido a la derecha -->
     <div
-        class="flex flex-col items-center pt-2 bg-rose-700 lg:items-center lg:flex lg:justify-around lg:w-1/3 lg:h-screen rounded-bl-md rounded-br-md lg:py-4">
-        <h2 class="hidden text-3xl font-extrabold text-center text-white font-poppins animate-fade-left lg:block">
-          El suplemento natural para un hígado fuerte y vital
+        class="flex flex-col items-center pt-2 bg-white lg:items-center lg:flex lg:justify-around lg:w-1/3 lg:h-screen rounded-bl-md rounded-br-md lg:py-4">
+        <h2 class="hidden text-3xl font-extrabold text-center text-rose-800 font-poppins animate-fade-left lg:block">
+          El suplemento natural para un 
+          <strong class="px-1 text-white bg-rose-900">HÍGADO</strong>
+           fuerte y vital
         </h2>
         <h1 class="text-xl font-extrabold text-center text-gray-800 lg:text-3xl font-poppins animate-fade-left animate-delay-300">
-    <span class="text-white">Energiza y purifica tu hígado con la sabiduría ayurvédica de LIVAD</span>
+    <span class="text-rose-800"> 
+      <strong class="px-1 text-white bg-rose-900">PURIFIQUE SU HÍGADO</strong>
+       con la sabiduría ayurvédica de LIVAD</span>
 </h1>
 
         <a href="#LIVAD"
-            class="p-1 my-3 font-bold bg-white rounded-md lg:rounded-lg lg:text-xl lg:p-2 text-rose-600 font-poppins animate-bounce">
+            class="p-1 my-3 font-bold text-white rounded-md bg-rose-800 lg:rounded-lg lg:text-xl lg:p-2 font-poppins animate-bounce">
             Conoce más
         </a>
     </div>
