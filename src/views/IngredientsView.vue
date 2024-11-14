@@ -2,7 +2,7 @@
     <div class="">
         <MainLayout>
             <template #main>
-            <h1 class="text-3xl font-extrabold text-center text-white md:py-7 bg-rose-600 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAD</h1>
+            <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAD</h1>
                 <section class="flex flex-wrap justify-around gap-5 p-3 bg-slate-200 selection:bg-rose-700 selection:text-white">
                     <BenefictCard 
                     img-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsKEn8_udbkIRpNgivz2H_GPcoB_kpLYPcw&s"

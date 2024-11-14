@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <header class="fixed left-0 right-0 z-50 flex items-center justify-center w-full text-xl w-fullle md:flex-col bg-rose-600 min-h-20">
+        <header class="fixed left-0 right-0 z-50 flex items-center justify-center w-full text-xl bg-orange-600 w-fullle md:flex-col min-h-20">
                 <div class="flex flex-wrap items-center justify-center gap-3 font-medium text-white font-concert-one lg:text-3xl">
                     <RouterLink :class="{'underline animate-rotate-x': route.name === 'home'}" :to="{ name: 'home' }">Inicio</RouterLink>
                     <RouterLink :class="{'underline animate-rotate-x': route.name === 'beneficts'}" :to="{ name: 'beneficts' }">Beneficios</RouterLink>
@@ -38,7 +38,7 @@
         <main class="pt-20">
             <slot name="main"></slot>
         </main>
-        <footer class="relative flex flex-col justify-center w-full p-1 bg-opacity-85 bg-rose-600 min-h-16 font-poppins">
+        <footer class="relative flex flex-col justify-center w-full p-1 bg-orange-600 bg-opacity-85 min-h-16 font-poppins">
             <h2 class="text-2xl text-center text-white lg:text-5xl font-spicy-rice">Contacto</h2>
                 <img class="absolute top-0 w-9 right-3" src="../assets/img/ssl.png" alt="">
             <div class="flex flex-col w-full">
