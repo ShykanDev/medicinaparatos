@@ -1,7 +1,7 @@
 <template>
     <MainLayout>
         <template #main>
-          <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">¿Tienes preguntas sobre LIVAD?</h1>
+          <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">¿Tiene preguntas sobre LIVAD?</h1>
 
    <section class="p-6 bg-white rounded-lg shadow-md faq-section font-poppins">
   <h2 class="mb-6 text-3xl font-extrabold text-center text-rose-700">Preguntas Frecuentes</h2>

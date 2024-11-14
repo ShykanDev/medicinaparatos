@@ -2,7 +2,41 @@
     <div class="">
         <MainLayout>
             <template #main>
-            <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">Conoce los ingredientes naturales de LIVAD</h1>
+            <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">Conozca los ingredientes naturales de LIVAD</h1>
+            <div class="grid grid-cols-3">
+              <img class="animate-flip-up" src="../assets/img/front.png" alt="">
+              <img class="animate-flip-up" src="../assets/img/syrup.png" alt="">
+              <img class="animate-flip-up" src="../assets/img/left.png" alt="">
+            </div>
+            <section class="flex flex-wrap justify-between gap-5 p-4 font-poppins">
+  <div class="flex-1 sm:flex-1 md:flex-1 lg:w-1/2">
+    <h3 class="mb-4 text-xl font-semibold">Características del Producto</h3>
+    <ul class="p-0 list-none">
+      <li><strong>Cantidad de Cápsulas:</strong> 60 cápsulas por envase / Botella 200ml</li>
+      <li><strong>Tamaño de la Porción:</strong> 1 cápsula/15ml</li>
+      <li><strong>Modo de Uso:</strong> Tomar 1 cápsula de 1 a 2 veces al día, preferiblemente con comida o según lo indique un profesional de la salud.</li>
+      <li><strong>Almacenamiento:</strong> Mantener en un lugar fresco y seco, lejos de la luz solar directa.</li>
+      <li><strong>Advertencias:</strong> Consultar a un profesional de la salud si está embarazada o en período de lactancia. Mantener fuera del alcance de los niños.</li>
+      <li><strong>Categoría:</strong> Suplemento dietético</li>
+    </ul>
+  </div>
+  <div class="flex-1 sm:flex-1 md:flex-1 lg:w-1/2">
+    <h3 class="mb-4 text-xl font-semibold">Resumen de Ingredientes</h3>
+    <ul class="p-0 list-none">
+  <li><span class="font-bold">Amalaki 🌿</span> Rico en antioxidantes, protege el hígado contra el daño oxidativo y mejora su desintoxicación.</li>
+  <li><span class="font-bold">Guduchi 🌱</span> Apoya la regeneración del hígado y mejora la eliminación de toxinas.</li>
+  <li><span class="font-bold">Bhringraj 🍃</span> Promueve la salud hepática y ayuda a reducir el estrés oxidativo en el hígado.</li>
+  <li><span class="font-bold">Chandan 🌳</span> Contribuye al equilibrio del sistema hepático y reduce la inflamación.</li>
+  <li><span class="font-bold">Karpur Kachari 🌾</span> Mejora la función hepática y actúa como un tónico digestivo.</li>
+  <li><span class="font-bold">Katuki 🌱</span> Considerado un potente hepatoprotector, apoya la regeneración y desintoxicación del hígado.</li>
+  <li><span class="font-bold">Vasa 🍃</span> Ayuda a proteger las células del hígado y favorece su función natural.</li>
+  <li><span class="font-bold">Yasthimadhu 🌿</span> Protege al hígado de daños y mejora su capacidad de recuperación.</li>
+  <li><span class="font-bold">Probiótico 🦠</span> Fortalece el intestino, ayudando indirectamente a mejorar la función hepática.</li>
+</ul>
+
+
+  </div>
+            </section>
                 <section class="flex flex-wrap justify-around gap-5 p-3 bg-slate-200 selection:bg-rose-700 selection:text-white">
                     <BenefictCard 
                     img-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsKEn8_udbkIRpNgivz2H_GPcoB_kpLYPcw&s"

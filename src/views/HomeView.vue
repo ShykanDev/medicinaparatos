@@ -133,7 +133,7 @@
         </section>
         <div class="w-full h-[1px] bg-rose-900 my-8"/>
         <!-- Ads Section -->
-        <h3 class="mt-6 text-2xl font-bold text-center text-rose-900 font-poppins">Te puede interesar</h3>
+        <h3 class="mt-6 text-2xl font-bold text-center text-rose-900 font-poppins">Le puede interesar</h3>
         <section  class="flex justify-center w-full my-6 space-x-4"> <!-- ads section -->
               <div
                 class="relative flex items-center justify-center w-1/2 p-4 border-2 rounded-lg shadow-md border-slate-400 bg-slate-100">
@@ -148,9 +148,9 @@
                   </div>
                   <img class="w-full h-full bg-contain rounded-md" src="https://i.ibb.co/SKjtSS9/glufacAd.jpg" alt="">
                   <p class="absolute text-xs font-bold text-center text-rose-900 top-1 font-poppins md:text-3xl">
-                    ¿Tienes Diabetes?</p>
+                    ¿Tiene Diabetes?</p>
                   <p class="absolute text-xs font-bold text-center text-white bottom-1 font-poppins md:text-3xl">
-                    Conoce Glufac</p>
+                    Conozca Glufac</p>
                 </a>
               </div>
 
