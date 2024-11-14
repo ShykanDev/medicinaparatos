@@ -30,7 +30,7 @@
 
         <a href="#LIVAD"
             class="p-1 my-3 font-bold text-white bg-orange-600 rounded-md lg:rounded-lg lg:text-xl lg:p-2 font-poppins animate-bounce">
-            Conoce más
+            Conozca más
         </a>
     </div>
 </article>
