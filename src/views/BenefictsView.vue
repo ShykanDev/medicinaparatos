@@ -2,7 +2,7 @@
     <div class="">
       <MainLayout>
         <template #main>  
-            <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">Conozca los BENEFICIOS que le ofrece LIVAD</h1>
+            <h1 class="text-3xl font-extrabold text-center text-white bg-rose-800 md:py-7 font-poppins animate-fade">Conozca los BENEFICIOS que le ofrece LIVAD</h1>
           <section class="flex flex-wrap justify-around gap-5 p-2">
         <RealBenefictCard :img-src="'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs818c90AV4cjN59SP2q0geWfH_QYGRzWVA&s'" :title="benefit1.title" :description="benefit1.fullResume" :smallIntro="benefit1.smallResume" :tags="benefit1.tags" />
         <RealBenefictCard :img-src="'https://images.pexels.com/photos/1153370/pexels-photo-1153370.jpeg?auto=compress&cs=tinysrgb&w=500'" :title="benefit2.title" :description="benefit2.fullResume" :smallIntro="benefit2.smallResume" :tags="benefit2.tags" />

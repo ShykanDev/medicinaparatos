@@ -2,7 +2,7 @@
   <div>
     <MainLayout>
       <template #main>
-        <section class="w-full py-8 overflow-hidden text-white bg-orange-800">
+        <section class="w-full py-8 overflow-hidden text-white bg-rose-900">
   <!-- Título principal -->
   <div class="flex justify-center text-white">
     <h2 class="mb-6 text-3xl font-bold text-center lg:text-5xl">🌿 ¿Quiénes Somos? 🌿</h2>

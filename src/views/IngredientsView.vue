@@ -2,7 +2,7 @@
     <div class="">
         <MainLayout>
             <template #main>
-            <h1 class="text-3xl font-extrabold text-center text-white bg-orange-700 md:py-7 font-poppins animate-fade">Conozca los ingredientes naturales de LIVAD</h1>
+            <h1 class="text-3xl font-extrabold text-center text-white bg-rose-800 md:py-7 font-poppins animate-fade">Conozca los ingredientes naturales de LIVAD</h1>
             <div class="grid grid-cols-3">
               <img class="animate-flip-up" src="../assets/img/front.png" alt="">
               <img class="animate-flip-up" src="../assets/img/syrup.png" alt="">
