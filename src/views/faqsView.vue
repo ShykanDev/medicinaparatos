@@ -19,13 +19,10 @@
   <div class="mb-4 faq-item">
     <!--  -->
     <h3 class="text-xl font-semibold text-rose-800 ">¿LIVAD tiene efectos secundarios?</h3>
-    <p class="">LIVAD está formulado con ingredientes naturales y generalmente es seguro para la mayoría de las personas. Sin embargo, si experimentas algún efecto secundario, como malestar estomacal o reacciones alérgicas, suspende su uso y consulta a un médico.</p>
+    <p class="">LIVAD está formulado con ingredientes naturales y generalmente es seguro para la mayoría de las personas, sin causar efectos secundarios. </p>
   </div>
 
-  <div class="mb-4 faq-item">
-    <h3 class="text-xl font-semibold text-rose-800 ">¿Puedo tomar LIVAD junto con otros medicamentos o suplementos?</h3>
-    <p class="">Es recomendable consultar a un profesional de salud antes de combinar LIVAD con otros medicamentos o suplementos, especialmente si estás tomando tratamientos para afecciones hepáticas o problemas digestivos.</p>
-  </div>
+
 
   <div class="mb-4 faq-item">
     <h3 class="text-xl font-semibold text-rose-800 ">¿LIVAD es vegano?</h3>
@@ -34,7 +31,7 @@
 
   <div class="mb-4 faq-item">
     <h3 class="text-xl font-semibold text-rose-800 ">¿Puedo tomar LIVAD si soy diabético?</h3>
-    <p class="">LIVAD es un suplemento natural que no contiene azúcar ni ingredientes que aumenten el nivel de glucosa en la sangre. Sin embargo, si tienes diabetes o cualquier otra condición médica, te recomendamos consultar con un médico antes de usarlo.</p>
+    <p class="">LIVAD es un suplemento natural que no contiene azúcar ni ingredientes que aumenten el nivel de glucosa en la sangre, y al ser de origen natural, es seguro para personas diabéticas.</p>
   </div>
 
   <div class="mb-4 faq-item">
@@ -57,15 +54,6 @@
     <p class="">No. Las cápsulas de LIVAD son fáciles de tragar y no tienen sabor. Son una opción conveniente y sin complicaciones para quienes buscan un suplemento natural.</p>
   </div>
 
-  <div class="mb-4 faq-item">
-    <h3 class="text-xl font-semibold text-rose-800 ">¿Es seguro tomar LIVAD durante el embarazo o la lactancia?</h3>
-    <p class="">Si estás embarazada, en periodo de lactancia o planeas quedar embarazada, te recomendamos que consultes con tu médico antes de tomar LIVAD, ya que algunos ingredientes pueden no ser adecuados durante estas etapas.</p>
-  </div>
-
-  <div class="mb-4 faq-item">
-    <h3 class="text-xl font-semibold text-rose-800 ">¿Puedo tomar LIVAD si tengo problemas renales?</h3>
-    <p class="">Si tienes problemas renales, es recomendable consultar a tu médico antes de tomar LIVAD, ya que algunos ingredientes pueden interactuar con medicamentos o condiciones preexistentes.</p>
-  </div>
 
   <div class="mb-4 faq-item">
     <h3 class="text-xl font-semibold text-rose-800 ">¿Cuánto tiempo dura una botella de LIVAD?</h3>
@@ -79,7 +67,7 @@
 
   <div class="mb-4 faq-item">
     <h3 class="text-xl font-semibold text-rose-800 ">¿Puedo tomar LIVAD si tengo hipertensión?</h3>
-    <p class="">LIVAD no contiene ingredientes que afecten la presión arterial de forma directa. Sin embargo, siempre es recomendable consultar a un médico antes de iniciar cualquier suplemento si tienes hipertensión o estás tomando medicamentos para esta condición.</p>
+    <p class="">LIVAD no contiene ingredientes que afecten la presión arterial de forma directa, y al ser un producto de medicina ayurvédica, su uso es generalmente seguro incluso con personas con hipertensión.</p>
   </div>
   
 </section>

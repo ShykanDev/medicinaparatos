@@ -13,26 +13,27 @@
 
     <!-- Contenido a la derecha -->
     <div
-        class="flex flex-col items-center pt-2 bg-white lg:items-center lg:flex lg:justify-around lg:w-1/3 lg:h-screen rounded-bl-md rounded-br-md lg:py-11">
-        <h2 class="hidden text-3xl font-extrabold text-center text-rose-800 font-poppins animate-fade-left lg:block">
-          El suplemento natural para un 
-          <strong class="px-1 text-white bg-rose-900">HÍGADO</strong>
-           fuerte y vital
-        </h2>
-        <h1 class="text-xl font-extrabold text-center text-gray-800 lg:text-3xl font-poppins animate-fade-left animate-delay-300">
-    <span class="text-rose-800"> 
-      <strong class="px-1 text-white bg-rose-900">PURIFIQUE SU HÍGADO</strong>
-       con la sabiduría ayurvédica de LIVAD</span>
-</h1>
-        <h4 class="text-xl font-extrabold text-center text-green-900 lg:text-3xl font-concert-one animate-fade-left animate-delay-300">
-          Medicina ayurvédica con origen en la India
-</h4>
+  class="flex flex-col items-center pt-2 lg:items-center lg:flex lg:justify-around lg:w-1/3 lg:h-screen rounded-bl-md rounded-br-md bg-gradient-to-tl from-orange-50 via-orange-100 to-orange-200 lg:py-20">
+  <h2 class="hidden text-3xl font-extrabold text-center text-orange-900 font-poppins animate-fade-left lg:block">
+    El suplemento natural para un 
+    <strong class="px-1 text-white bg-orange-900">HÍGADO</strong>
+     fuerte y vital
+  </h2>
+  <h1 class="text-xl font-extrabold text-center text-gray-800 lg:text-3xl font-poppins animate-fade-left animate-delay-300">
+    <span class="text-orange-800"> 
+      <strong class="px-1 text-white bg-orange-900">PURIFIQUE SU HÍGADO</strong>
+       con LIVAD</span>
+  </h1>
+  <h4 class="text-xl font-extrabold text-center text-green-900 lg:text-3xl font-concert-one animate-fade-left animate-delay-300">
+    Medicina ayurvédica con origen en la India
+  </h4>
 
-        <a href="#LIVAD"
-            class="p-1 my-3 font-bold text-white bg-orange-600 rounded-md lg:rounded-lg lg:text-xl lg:p-2 font-poppins animate-bounce">
-            Conozca más
-        </a>
-    </div>
+  <a href="#LIVAD"
+    class="p-1 my-3 font-bold text-white bg-orange-600 rounded-md lg:rounded-lg lg:text-xl lg:p-2 font-poppins animate-bounce">
+    Conozca más
+  </a>
+</div>
+
 </article>
 
         <p class="mb-6" id="LIVAD" ></p>
