@@ -2,107 +2,104 @@
   <div>
     <MainLayout>
       <template #main>
-        <section class="w-full py-8 overflow-hidden text-white bg-rose-900">
-  <!-- Título principal -->
-  <div class="flex justify-center text-white">
-    <h2 class="mb-6 text-3xl font-bold text-center lg:text-5xl">🌿 ¿Quiénes Somos? 🌿</h2>
-  </div>
-
-  <!-- Descripción introductoria -->
-  <p class="px-4 mb-4 text-lg font-medium text-center font-poppins lg:text-2xl">Descubre nuestra esencia y compromiso con la salud a través de productos ayurvédicos de calidad. 🌱</p>
-
-  <!-- Información sobre la marca -->
-  <div class="px-4 brand-info">
-    <h3 class="mb-4 text-2xl italic font-semibold text-center text-white lg:text-4xl">Sobre nuestra marca 🌟</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Somos una empresa mexicana enfocada en la creación, fabricación, importación y distribución de productos 100% naturales que siguen los antiguos métodos ayurvédicos de la India. Nuestros productos aseguran pureza y eficacia, brindando bienestar a quienes los usan. 🕉️</p>
-  </div>
-
-  <!-- Misión -->
-  <div class="px-4 mission">
-    <h3 class="mb-4 text-2xl italic font-semibold text-center text-white lg:text-4xl">Nuestra misión 🎯</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Nos dedicamos a ofrecer soluciones naturales que generen confianza y bienestar, poniendo siempre la calidad de nuestros productos al servicio de nuestros clientes. 🤝</p>
-  </div>
-
-  <!-- Visión -->
-  <div class="px-4 vision">
-    <h3 class="mb-4 text-2xl italic font-semibold text-center text-white lg:text-4xl">Nuestra visión 👀</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Queremos ser la opción líder en salud y bienestar, fusionando lo mejor de las tradiciones milenarias para crear productos ayurvédicos que transformen vidas. 🌍</p>
-  </div>
-
-  <!-- Calidad del producto -->
-  <div class="px-4 product-quality">
-    <h3 class="mb-4 text-2xl italic font-semibold text-center text-white lg:text-4xl">Calidad garantizada ✔️</h3>
-    <ul class="pl-6 font-medium list-disc font-poppins lg:text-2xl">
-      <li>100% Naturales 🍃</li>
-      <li>100% Vegetarianos 🥦</li>
-      <li>Libre de químicos y conservantes 🚫</li>
-    </ul>
-  </div>
-
-  <!-- Historia de la marca -->
-  <div class="px-4 our-story">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Nuestra historia 📖</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Prasadam surge como una marca mexicana para ofrecer lo mejor de la medicina ayurvédica, llevando el conocimiento ancestral de la India a todo el mundo. 🌏</p>
-  </div>
-
-  <!-- Lo que ofrecemos -->
-  <div class="px-4 what-we-offer">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">¿Qué ofrecemos? 🛍️</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Contamos con una variada gama de productos ayurvédicos de calidad, respaldados por certificaciones que avalan su pureza y autenticidad. 🌿</p>
-  </div>
-
-  <!-- Contacto -->
-  <div class="px-4 contact">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Contacto rápido 📞</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Si tienes dudas, contáctanos a través de nuestras redes sociales, mensaje directo o llamando a nuestros números de contacto. ¡Estamos para ayudarte! 💬</p>
-  </div>
-
-  <!-- Compras seguras -->
-  <div class="px-4 secure-purchase">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Compras seguras 💳</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Si deseas adquirir nuestros productos, no dudes en contactarnos. Te ofrecemos las mejores opciones para que compres con confianza. 🛒</p>
-  </div>
-
-  <!-- Productos exportados -->
-  <div class="px-4 exported-products">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Productos exportados ✈️</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Todo nuestro catálogo proviene de la región que dio origen al Ayurveda, garantizando la autenticidad en cada producto. 🌱</p>
-  </div>
-
-  <!-- Medicinas auxiliares -->
-  <div class="px-4 auxiliary-medicines">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Medicinas auxiliares 💊</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Ofrecemos productos en forma de tabletas para aliviar malestares, facilitando el acceso a la medicina ayurvédica de manera cómoda. 💚</p>
-  </div>
-
-  <!-- Variedad de productos -->
-  <div class="px-4 product-variety">
-    <h3 class="mb-4 text-2xl italic font-medium text-center text-white lg:text-4xl">Variedad de productos 🌈</h3>
-    <p class="mb-4 font-medium font-poppins lg:text-2xl">Disponemos de una extensa gama de productos, cada uno con beneficios específicos para el bienestar integral. 🌟</p>
-  </div>
-
-  <!-- Estadísticas -->
-  <div class="flex flex-wrap justify-center gap-10 px-4 my-3 stats">
-    <div class="flex-1 text-center">
-      <strong class="lg:text-2xl">+50</strong>
-      <p class="text-2xl font-medium font-poppins">Años de experiencia 🕰️</p>
+  <section class="w-full py-8 overflow-hidden bg-white text-emerald-700">
+    <!-- Título principal -->
+    <div class="flex justify-center text-emerald-700">
+      <h2 class="mb-6 text-3xl font-bold text-center lg:text-5xl">
+        🌿 ¿Quiénes Somos? 🌿
+      </h2>
     </div>
-    <div class="flex-1 text-center">
-      <strong class="lg:text-2xl">+1000</strong>
-      <p class="text-2xl font-medium font-poppins">Artículos vendidos 📦</p>
-    </div>
-    <div class="flex-1 text-center">
-      <strong class="lg:text-2xl">100%</strong>
-      <p class="text-2xl font-medium font-poppins">Productos Naturales y Vegetarianos 🌿</p>
-    </div>
-    <div class="flex-1 text-center">
-      <strong class="lg:text-2xl">100%</strong>
-      <p class="text-2xl font-medium font-poppins">Calidad Ayurvédica 🔅</p>
-    </div>
-  </div>
-</section>
 
-      </template>
+    <!-- Descripción introductoria -->
+    <p class="px-4 mb-4 text-lg font-medium text-center font-poppins lg:text-2xl">
+      Nos apasiona llevar bienestar a las personas a través de productos naturales y auténticos, basados en el Ayurveda. 🌱
+    </p>
+
+    <!-- Información sobre la marca -->
+    <div class="px-4 brand-info">
+      <h3 class="mb-4 text-2xl italic font-semibold text-center lg:text-4xl">
+        <i class="fas fa-leaf"></i> Sobre nuestra marca
+      </h3>
+      <p class="mb-4 font-medium font-poppins lg:text-2xl">
+        Somos una empresa orgullosamente mexicana que combina tradición y modernidad para ofrecer productos ayurvédicos de la más alta calidad, elaborados con métodos ancestrales y sin químicos añadidos.
+      </p>
+    </div>
+
+    <!-- Misión -->
+    <div class="px-4 mission">
+      <h3 class="mb-4 text-2xl italic font-semibold text-center lg:text-4xl">
+        <i class="fas fa-bullseye"></i> Nuestra misión
+      </h3>
+      <p class="mb-4 font-medium font-poppins lg:text-2xl">
+        Ayudar a nuestros clientes a encontrar el equilibrio físico y mental mediante soluciones naturales que inspiran confianza.
+      </p>
+    </div>
+
+    <!-- Visión -->
+    <div class="px-4 vision">
+      <h3 class="mb-4 text-2xl italic font-semibold text-center lg:text-4xl">
+        <i class="fas fa-eye"></i> Nuestra visión
+      </h3>
+      <p class="mb-4 font-medium font-poppins lg:text-2xl">
+        Ser reconocidos como la principal referencia en productos de salud natural, honrando la tradición ayurvédica mientras transformamos vidas a nivel global.
+      </p>
+    </div>
+
+    <!-- Calidad del producto -->
+    <div class="px-4 product-quality">
+      <h3 class="mb-4 text-2xl italic font-semibold text-center lg:text-4xl">
+        <i class="fas fa-check-circle"></i> Calidad garantizada
+      </h3>
+      <ul class="pl-6 font-medium list-disc font-poppins lg:text-2xl">
+        <li><i class="fas fa-seedling"></i> Ingredientes 100% naturales</li>
+        <li><i class="fas fa-carrot"></i> Aptos para vegetarianos</li>
+        <li><i class="fas fa-ban"></i> Sin químicos ni conservadores</li>
+      </ul>
+    </div>
+
+    <!-- Historia de la marca -->
+    <div class="px-4 our-story">
+      <h3 class="mb-4 text-2xl italic font-medium text-center lg:text-4xl">
+        <i class="fas fa-book"></i> Nuestra historia
+      </h3>
+      <p class="mb-4 font-medium font-poppins lg:text-2xl">
+        Nacimos para compartir los beneficios del Ayurveda con el mundo, trayendo el conocimiento milenario de la India a México y más allá.
+      </p>
+    </div>
+
+    <!-- Lo que ofrecemos -->
+    <div class="px-4 what-we-offer">
+      <h3 class="mb-4 text-2xl italic font-medium text-center lg:text-4xl">
+        <i class="fas fa-shopping-bag"></i> Lo que ofrecemos
+      </h3>
+      <p class="mb-4 font-medium font-poppins lg:text-2xl">
+        Una amplia gama de productos certificados que destacan por su pureza y beneficios para el bienestar integral.
+      </p>
+    </div>
+
+    <!-- Estadísticas -->
+    <div class="flex flex-wrap justify-center gap-10 px-4 my-3 stats">
+      <div class="flex-1 text-center">
+        <strong class="lg:text-2xl">+50</strong>
+        <p class="text-2xl font-medium font-poppins"><i class="fas fa-clock"></i> Años de experiencia</p>
+      </div>
+      <div class="flex-1 text-center">
+        <strong class="lg:text-2xl">+1000</strong>
+        <p class="text-2xl font-medium font-poppins"><i class="fas fa-box"></i> Artículos vendidos</p>
+      </div>
+      <div class="flex-1 text-center">
+        <strong class="lg:text-2xl">100%</strong>
+        <p class="text-2xl font-medium font-poppins"><i class="fas fa-leaf"></i> Naturales y vegetarianos</p>
+      </div>
+      <div class="flex-1 text-center">
+        <strong class="lg:text-2xl">100%</strong>
+        <p class="text-2xl font-medium font-poppins"><i class="fas fa-star"></i> Calidad Ayurvédica</p>
+      </div>
+    </div>
+  </section>
+</template>
+
+
     </MainLayout>
   </div>
 </template>
